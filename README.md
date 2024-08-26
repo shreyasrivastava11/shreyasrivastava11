@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreya Srivastava</h1>
 <h3 align="center">Problem Solver and Frontend Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/bb54e6a9f4d87a0394e13721df2e9fde5e339520b0e14a5ac42dde25215809ed/68747470733a2f2f6d656469612e74656e6f722e636f6d2f505039763756497336523441414141642f7363616c65722d6372656174652d696d706163742e676966">
+<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/bb54e6a9f4d87a0394e13721df2e9fde5e339520b0e14a5ac42dde25215809ed/68747470733a2f2f6d656469612e74656e6f722e636f6d2f505039763756497336523441414141642f7363616c65722d6372656174652d696d706163742e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Finga911&psig=AOvVaw19UzZdqyGZAX3QIP0Z7BsO&ust=1724780723857000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPD3pIWbk4gDFQAAAAAdAAAAABAg)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasrivastava11&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasrivastava11" /> </p>
 
