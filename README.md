@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreya Srivastava</h1>
 <h3 align="center">Problem Solver and Frontend Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSuziwan&psig=AOvVaw3YYobXiQqFtDvC-SECDKru&ust=1725860065637000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjYp_PPsogDFQAAAAAdAAAAABBD
+<img align="right" alt="Coding" width="400" src="https://github.com/shreyasrivastava11/shreyasrivastava11/blob/main/hi.gif
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasrivastava11&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasrivastava11" /> </p>
