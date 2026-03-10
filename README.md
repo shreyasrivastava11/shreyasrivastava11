@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm Shreya Srivastava</h1>
-<h3 align="center">Problem Solver and Frontend Developer</h3>
+<h3 align="center">Problem Solver and Full Stack Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/1370a9e5-4502-4641-85b6-d455a50a22bd?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasrivastava11&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasrivastava11" /> </p>
 
-- 🌱 I’m currently learning **Frameworks and JS libraries**
+- 🌱 I’m currently learning **Backend Technologies**
 
 - 💬 Ask me about **HTML, CSS and JS with React**
+                  **Backend in SpringBoot**
+                  **Programming Languages Java and Python**
+                  **Database SQL**
 
-- 📫 How to reach me **31707csai@gmail.com**
+- 📫 How to reach me **shreyasrivastava2dec@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
