@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasrivastava11&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasrivastava11" /> </p>
 
-- 🌱 I’m currently learning **Backend Technologies**
+- 🌱 I’m currently learning **Backend
+  Technologies**
 
 - 💬 Ask me about **HTML, CSS and JS with React**
                   **Backend in SpringBoot**
