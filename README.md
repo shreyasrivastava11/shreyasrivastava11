@@ -7,10 +7,7 @@
 
 - 🌱 I’m currently learning **Backend Technologies**
 
-- 💬 Ask me about **HTML, CSS and JS with React**
-- **Backend in SpringBoot**
-- **Programming Languages Java and Python**
-- **Database SQL**
+- 💬 Ask me about **HTML, CSS and JS with React, Backend in SpringBoot, Programming Languages Java and Python, Database SQL**
 
 - 📫 How to reach me **shreyasrivastava2dec@gmail.com**
 
