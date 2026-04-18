@@ -18,9 +18,12 @@
 
 ### 🤝 Connect with me
 <p>
-<a href="https://linkedin.com/in/shreyasrivastava11"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://www.hackerrank.com/@ai_1520134"><img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank"></a>
-<a href="https://www.leetcode.com/_shreya_srivastava_11"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
+<a href="https://linkedin.com/in/shreyasrivastava11">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="https://www.leetcode.com/_shreya_srivastava_11">
+  <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
+</a>
 </p>
 
 ---
@@ -40,9 +43,14 @@
 
 ---
 
-### 📊 GitHub Stats
+## 🧠 DSA & Problem Solving
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyasrivastava11&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasrivastava11&layout=compact" />
+- 🚀 Actively solving Data Structures & Algorithms problems on LeetCode  
+- 💡 Focus on improving problem-solving skills and optimization techniques  
+- 📈 Consistent practice  
+
+<p>
+<a href="https://www.leetcode.com/_shreya_srivastava_11">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
+</a>
 </p>
